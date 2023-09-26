@@ -1,0 +1,6 @@
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\jason\OneDrive\Desktop\C#_Classes_Methods_Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb

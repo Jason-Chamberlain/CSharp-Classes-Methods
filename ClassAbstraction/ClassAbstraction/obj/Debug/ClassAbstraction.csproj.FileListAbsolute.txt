@@ -1,0 +1,6 @@
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\bin\Debug\ClassAbstraction.exe.config
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\bin\Debug\ClassAbstraction.exe
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\bin\Debug\ClassAbstraction.pdb
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\obj\Debug\ClassAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\obj\Debug\ClassAbstraction.exe
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\ClassAbstraction\ClassAbstraction\obj\Debug\ClassAbstraction.pdb

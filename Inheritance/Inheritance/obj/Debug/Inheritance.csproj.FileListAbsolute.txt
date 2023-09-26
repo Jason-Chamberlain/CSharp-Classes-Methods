@@ -1,0 +1,6 @@
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\jason\OneDrive\Desktop\C#_Methods_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
